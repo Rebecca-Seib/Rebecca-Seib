@@ -20,7 +20,9 @@ I was able to work on some shared projects as well. These were collaborative wit
 
 •	I collaborated on another form automation. This one made one form into two forms and had the person fill out the second form after being approved by the manager for the first form. These forms were created off a premade questionnaire in word and were translated into Microsoft Forms. 
 
-•	Another project I was given was to make an outlook calendar auto add a event to the PTO calendar in events whenever someone used the words PTO. 
+•	Another project I was given was to make an outlook calendar auto add a event to the PTO calendar in events whenever someone used the words PTO.
+
+-FLow I created was to send an HTML table every night at midnight with the names of people who did not check in thier secuirty badge. 
 
 ![image](https://user-images.githubusercontent.com/109617102/181027189-cbdbb648-886a-4d81-899c-4afb9ccc3265.png)
 ![image](https://user-images.githubusercontent.com/109617102/181028098-2a2cc281-aa32-4b65-b6a2-c2b93ee727d5.png)
