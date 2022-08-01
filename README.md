@@ -24,6 +24,10 @@ I was able to work on some shared projects as well. These were collaborative wit
 
 -FLow I created was to send an HTML table every night at midnight with the names of people who did not check in thier secuirty badge. 
 
+-Powerapp I helped work on was an app desinged to use color codes to notify IT staff of a server outage. I helped create a pop-up that would let the user know the basic details of the node. 
+
+- I created a Sharepoint List with all the users of a AD group that microsoft licensing and helped to eliminate the licnsing taht was not needed in the organization in order to help reduce costs. 
+
 ![image](https://user-images.githubusercontent.com/109617102/181027189-cbdbb648-886a-4d81-899c-4afb9ccc3265.png)
 ![image](https://user-images.githubusercontent.com/109617102/181028098-2a2cc281-aa32-4b65-b6a2-c2b93ee727d5.png)
 ![image](https://user-images.githubusercontent.com/109617102/181028435-0e219e92-2e2f-4665-a2d2-b654e3e3d33d.png)
