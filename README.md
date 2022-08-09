@@ -28,6 +28,8 @@ I was able to work on some shared projects as well. These were collaborative wit
 
 - I created a Sharepoint List with all the users of a AD group that microsoft licensing and helped to eliminate the licnsing taht was not needed in the organization in order to help reduce costs. 
 
+-Created and design a powerapp that allowed users to scan a barcode to enter that barcode into a repository. They would then be able to update that barcode and the owner as well as the category of the asset. The owner was found by creating a second screen in which the owner was searched via the database.
+
 ![image](https://user-images.githubusercontent.com/109617102/181027189-cbdbb648-886a-4d81-899c-4afb9ccc3265.png)
 ![image](https://user-images.githubusercontent.com/109617102/181028098-2a2cc281-aa32-4b65-b6a2-c2b93ee727d5.png)
 ![image](https://user-images.githubusercontent.com/109617102/181028435-0e219e92-2e2f-4665-a2d2-b654e3e3d33d.png)
@@ -35,5 +37,8 @@ I was able to work on some shared projects as well. These were collaborative wit
 ![image](https://user-images.githubusercontent.com/109617102/181029090-9e51dfce-8e0a-44ff-9e0b-66f646ac748a.png)
 ![image](https://user-images.githubusercontent.com/109617102/181030349-3450c605-7307-430c-885c-34a6143de3c1.png)
 ![image](https://user-images.githubusercontent.com/109617102/181035470-216a9574-c02c-4705-a2ee-0fdcf803312c.png)
+![image](https://user-images.githubusercontent.com/109617102/183769098-833e16c8-b81e-4eb4-9e7a-f09e8ccb3247.png)
+![image](https://user-images.githubusercontent.com/109617102/183769206-5dd5c3d2-3126-496e-8139-4dce9d78081d.png)
+
 
 
