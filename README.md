@@ -30,6 +30,12 @@ I was able to work on some shared projects as well. These were collaborative wit
 
 -Created and design a powerapp that allowed users to scan a barcode to enter that barcode into a repository. They would then be able to update that barcode and the owner as well as the category of the asset. The owner was found by creating a second screen in which the owner was searched via the database.
 
+-Created a powerautomate flow that turned a text column, copied it into a "person" column for lookup and email access
+
+-Completed all 95 exercises in Python on W3 schools. Created and practiced python throughout internship.
+
+-Had help but created a powershell script that pulled miscrosfot users with old domain logins to migrate those users to new domain. 
+
 ![image](https://user-images.githubusercontent.com/109617102/181027189-cbdbb648-886a-4d81-899c-4afb9ccc3265.png)
 ![image](https://user-images.githubusercontent.com/109617102/181028098-2a2cc281-aa32-4b65-b6a2-c2b93ee727d5.png)
 ![image](https://user-images.githubusercontent.com/109617102/181028435-0e219e92-2e2f-4665-a2d2-b654e3e3d33d.png)
