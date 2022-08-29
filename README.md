@@ -28,7 +28,7 @@ I completed all 95 exercises in Python on W3 schools. Created and practiced pyth
 
 I had help but created a PowerShell script that pulled Microsoft users with old domain logins to migrate those users to new domain. I was able to get a list of the user and was able to pull them to a text file that I was able to give to my manager. 
 
-I created Hunting queries in Sentinel that found users that activated PIM after hours and then compared it to a change control board to find users who may not be properly activating PIM. This was then visualized in PowerBi and the file was shared with the InfoSec director as well as the cloud director. ![image](https://user-images.githubusercontent.com/109617102/187308325-30924a25-f5b8-42e1-aeba-54b9f664d3ca.png)
+I created Hunting queries in Sentinel that found users that activated PIM after hours and then compared it to a change control board to find users who may not be properly activating PIM. This was then visualized in PowerBi and the file was shared with the InfoSec director as well as the cloud director. 
 
 
 ![image](https://user-images.githubusercontent.com/109617102/181027189-cbdbb648-886a-4d81-899c-4afb9ccc3265.png)
