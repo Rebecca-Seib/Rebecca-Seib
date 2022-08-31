@@ -30,6 +30,8 @@ I had help but created a PowerShell script that pulled Microsoft users with old 
 
 I created Hunting queries in Sentinel that found users that activated PIM after hours and then compared it to a change control board to find users who may not be properly activating PIM. This was then visualized in PowerBi and the file was shared with the InfoSec director as well as the cloud director. 
 
+As a daily task, an expectatioon was that I investigate phishing tickets from users that reported it to Top Desk. After looking into the tickets, I would run the email through abnormal security and check the SPF,DMARC and DKIM. These helped me to determine the validity of the email address and whether or not to block the email in Microsoft Defender. After blocking the email address in Defender I would then move on to the next ticket. 
+
 
 ![image](https://user-images.githubusercontent.com/109617102/181027189-cbdbb648-886a-4d81-899c-4afb9ccc3265.png)
 ![image](https://user-images.githubusercontent.com/109617102/181028098-2a2cc281-aa32-4b65-b6a2-c2b93ee727d5.png)
