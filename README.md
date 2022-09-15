@@ -34,6 +34,8 @@ As a daily task, an expectatioon was that I investigate phishing tickets from us
 
 I worked on python script for masking credit card numbers. I was able to make the script pull numbers and hide them besides the last four.
 
+As of 09/15/2022 I was able to complete 61% of the Azure 900 Fundamentals course in A Cloud Guru. 
+
 
 ![image](https://user-images.githubusercontent.com/109617102/181027189-cbdbb648-886a-4d81-899c-4afb9ccc3265.png)
 ![image](https://user-images.githubusercontent.com/109617102/181028098-2a2cc281-aa32-4b65-b6a2-c2b93ee727d5.png)
