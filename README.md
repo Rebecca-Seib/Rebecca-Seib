@@ -32,6 +32,8 @@ I created Hunting queries in Sentinel that found users that activated PIM after 
 
 As a daily task, an expectatioon was that I investigate phishing tickets from users that reported it to Top Desk. After looking into the tickets, I would run the email through abnormal security and check the SPF,DMARC and DKIM. These helped me to determine the validity of the email address and whether or not to block the email in Microsoft Defender. After blocking the email address in Defender I would then move on to the next ticket. 
 
+I worked on python script for masking credit card numbers. I was able to make the script pull numbers and hide them besides the last four.
+
 
 ![image](https://user-images.githubusercontent.com/109617102/181027189-cbdbb648-886a-4d81-899c-4afb9ccc3265.png)
 ![image](https://user-images.githubusercontent.com/109617102/181028098-2a2cc281-aa32-4b65-b6a2-c2b93ee727d5.png)
@@ -43,6 +45,7 @@ As a daily task, an expectatioon was that I investigate phishing tickets from us
 ![image](https://user-images.githubusercontent.com/109617102/183769206-5dd5c3d2-3126-496e-8139-4dce9d78081d.png)
 ![image](https://user-images.githubusercontent.com/109617102/187304623-8a4a1c0b-267d-4126-8e75-bff3f8682a99.png)
 ![image](https://user-images.githubusercontent.com/109617102/187304661-0624665d-db42-4f62-a5e3-5cd75119ed3d.png)
+![Screenshot 2022-09-15 100933](https://user-images.githubusercontent.com/109617102/190455458-2e107b9b-0ae6-43d2-9813-b1dae09461e7.png)
 
 
 
