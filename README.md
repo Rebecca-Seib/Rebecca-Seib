@@ -36,7 +36,7 @@ I worked on python script for masking credit card numbers. I was able to make th
 
 As of 09/15/2022 I was able to complete 61% of the Azure 900 Fundamentals course in A Cloud Guru. 
 
-I was able to work on some basic coding that took user input, added it to a list and ended the list when the user  entered 0. This allowed me to practice some basic python in order ot help my developer skills along the way.  I have been practicing coding alot in order to be profficent in the coding world an din coding just in general. 
+I was able to work on some basic coding that took user input, added it to a list and ended the list when the user  entered 0. This allowed me to practice some basic python in order to help my developer skills along the way.  I have been practicing coding alot in order to be profficent in the coding world an din coding just in general. I then edited the code to take a second number from the user. This is the number that is the max for the lis. If a user enters 6, then they want a list of all numbers less than six tha they entered. All code entered is my own and I did not use StackOverflow...etc
 
 
 ![image](https://user-images.githubusercontent.com/109617102/181027189-cbdbb648-886a-4d81-899c-4afb9ccc3265.png)
@@ -51,6 +51,8 @@ I was able to work on some basic coding that took user input, added it to a list
 ![image](https://user-images.githubusercontent.com/109617102/187304661-0624665d-db42-4f62-a5e3-5cd75119ed3d.png)
 ![Screenshot 2022-09-15 100933](https://user-images.githubusercontent.com/109617102/190455458-2e107b9b-0ae6-43d2-9813-b1dae09461e7.png)
 ![image](https://user-images.githubusercontent.com/109617102/191093816-37017233-0156-4507-ae9b-9cc95db05aba.png)
+![image](https://user-images.githubusercontent.com/109617102/191100603-80693fd4-b83d-486a-acbb-0444592d1b82.png)
+
 
 
 
