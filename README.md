@@ -42,6 +42,12 @@ I was able to create dahsboards and workbooks in Microsoft Sentinel as well as m
 
 I created a form that was to be used by Freelancers in the company taht allowed them to activate an account using Azure Automation, Microsoft Forms and Outlook. The way this worked is that when a freelancer came on to the site, they would activate thier account, after a certain numbers of hours, the account would then deactivate. This was done through Azure Automation. 
 
+I created a Brute force attack article about brute force attacks. This was then followed up by a power BI dashboard with that refreshed every month with new data from the Microsoft Sentinel query I created. I have included screenshots below. 
+
+I developed an app for myself that when I wanted to add a Setinel Hunting Query to a sharepoint list it would add an item to the list. I found this to be helpful when I was making Sentinel Queries and would forget what I had already made versus what I needed to make.
+
+I created a phone app for users that would display all thier emails and when clicked on the "Phishing" button, the email would be forwarded to Phishing Response.
+
 
 ![image](https://user-images.githubusercontent.com/109617102/181027189-cbdbb648-886a-4d81-899c-4afb9ccc3265.png)
 ![image](https://user-images.githubusercontent.com/109617102/181028098-2a2cc281-aa32-4b65-b6a2-c2b93ee727d5.png)
@@ -61,6 +67,18 @@ I created a form that was to be used by Freelancers in the company taht allowed 
 ![image](https://user-images.githubusercontent.com/109617102/202243154-eae26b4c-469b-406a-9c48-0833e952d291.png)
 ![image](https://user-images.githubusercontent.com/109617102/202244740-fef6e825-831c-4c94-bbc2-9cbe7f5f72c7.png)
 ![image](https://user-images.githubusercontent.com/109617102/202241331-afc4138f-89b5-4208-98cb-c8b019d2fa8b.png)
+![image](https://user-images.githubusercontent.com/109617102/202245391-a55a4d0f-d3b3-4a24-b243-3eb542728ad5.png)
+![image](https://user-images.githubusercontent.com/109617102/202246544-e833587c-21de-49cf-9b18-73bf34234b79.png)
+![image](https://user-images.githubusercontent.com/109617102/202246894-ee4a1a7f-6fe6-49c0-88b0-be9bb3b76c3f.png)
+![image](https://user-images.githubusercontent.com/109617102/202247132-977324ef-1460-422d-8bec-4a225e737ac6.png)
+![image](https://user-images.githubusercontent.com/109617102/202249252-2329ff08-322b-4b72-930c-3cc22956f783.png)
+![image](https://user-images.githubusercontent.com/109617102/202249334-2ab4555c-0da3-4849-8d48-1cb5861c88d6.png)
+![image](https://user-images.githubusercontent.com/109617102/202249406-224752e8-c246-4a90-9ece-8e13d0f912e8.png)
+![image](https://user-images.githubusercontent.com/109617102/202250865-9c3ee566-2b5b-42a1-8517-e8535fed7b33.png)
+![image](https://user-images.githubusercontent.com/109617102/202251638-bb72bd18-1eab-48ba-b4a4-6bc325e6e427.png)
+
+
+
 
 
 
