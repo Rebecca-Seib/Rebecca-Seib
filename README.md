@@ -34,9 +34,13 @@ As a daily task, an expectatioon was that I investigate phishing tickets from us
 
 I worked on python script for masking credit card numbers. I was able to make the script pull numbers and hide them besides the last four.
 
-As of 09/15/2022 I was able to complete 61% of the Azure 900 Fundamentals course in A Cloud Guru. 
+As of 11/6/2022 I was able to complete 82% of the Azure 900 Fundamentals course in A Cloud Guru. 
 
-I was able to work on some basic coding that took user input, added it to a list and ended the list when the user  entered 0. This allowed me to practice some basic python in order to help my developer skills along the way.  I have been practicing coding alot in order to be profficent in the coding world an din coding just in general. I then edited the code to take a second number from the user. This is the number that is the max for the lis. If a user enters 6, then they want a list of all numbers less than six tha they entered. All code entered is my own and I did not use StackOverflow...etc
+I was able to work on some basic coding that took user input, added it to a list and ended the list when the user  entered 0. This allowed me to practice some basic python in order to help my developer skills along the way.  I have been practicing coding alot in order to be profficent in the coding world and in coding just in general. I then edited the code to take a second number from the user. This is the number that is the max for the lis. If a user enters 6, then they want a list of all numbers less than six tha they entered. All code entered is my own and I did not use StackOverflow...etc
+
+I was able to create dahsboards and workbooks in Microsoft Sentinel as well as making alerts and hunting queries. (See Below)
+
+I created a form that was to be used by Freelancers in the company taht allowed them to activate an account using Azure Automation, Microsoft Forms and Outlook. The way this worked is that when a freelancer came on to the site, they would activate thier account, after a certain numbers of hours, the account would then deactivate. This was done through Azure Automation. 
 
 
 ![image](https://user-images.githubusercontent.com/109617102/181027189-cbdbb648-886a-4d81-899c-4afb9ccc3265.png)
@@ -52,6 +56,12 @@ I was able to work on some basic coding that took user input, added it to a list
 ![Screenshot 2022-09-15 100933](https://user-images.githubusercontent.com/109617102/190455458-2e107b9b-0ae6-43d2-9813-b1dae09461e7.png)
 ![image](https://user-images.githubusercontent.com/109617102/191093816-37017233-0156-4507-ae9b-9cc95db05aba.png)
 ![image](https://user-images.githubusercontent.com/109617102/191100961-e7af119a-a5eb-4e66-9070-24e51b036623.png)
+![image](https://user-images.githubusercontent.com/109617102/202240388-37202c21-1bf8-4b3f-9040-54ce5c45edcf.png)
+![image](https://user-images.githubusercontent.com/109617102/202242309-91167aec-0bc1-4388-99d9-27d8eb0e2bff.png)
+![image](https://user-images.githubusercontent.com/109617102/202243154-eae26b4c-469b-406a-9c48-0833e952d291.png)
+![image](https://user-images.githubusercontent.com/109617102/202244740-fef6e825-831c-4c94-bbc2-9cbe7f5f72c7.png)
+![image](https://user-images.githubusercontent.com/109617102/202241331-afc4138f-89b5-4208-98cb-c8b019d2fa8b.png)
+
 
 
 
