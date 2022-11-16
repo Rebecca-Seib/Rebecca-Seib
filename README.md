@@ -46,7 +46,7 @@ I created a Brute force attack article about brute force attacks. This was then 
 
 I developed an app for myself that when I wanted to add a Setinel Hunting Query to a sharepoint list it would add an item to the list. I found this to be helpful when I was making Sentinel Queries and would forget what I had already made versus what I needed to make.
 
-I created a phone app for users that would display all thier emails and when clicked on the "Phishing" button, the email would be forwarded to Phishing Response.
+I created a phone app for users that would display all thier emails and when clicked on the "Phishing" button, the email would be forwarded to Phishing Response. This was just a tester application that never went into full prodyuction mode however it was still successful and hard to build out. 
 
 
 ![image](https://user-images.githubusercontent.com/109617102/181027189-cbdbb648-886a-4d81-899c-4afb9ccc3265.png)
