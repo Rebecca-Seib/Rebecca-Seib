@@ -48,6 +48,7 @@ I developed an app for myself that when I wanted to add a Setinel Hunting Query 
 
 I created a phone app for users that would display all thier emails and when clicked on the "Phishing" button, the email would be forwarded to Phishing Response. This was just a tester application that never went into full prodyuction mode however it was still successful and hard to build out. 
 
+I created a personal organizer application, that allowed people to send emails, look people up, go to thier hom websites and to create meetings as well. While this app was never used, it was funt o make and took alot of time and effort into making this. 
 
 ![image](https://user-images.githubusercontent.com/109617102/181027189-cbdbb648-886a-4d81-899c-4afb9ccc3265.png)
 ![image](https://user-images.githubusercontent.com/109617102/181028098-2a2cc281-aa32-4b65-b6a2-c2b93ee727d5.png)
